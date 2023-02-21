@@ -1,0 +1,12 @@
+*    
+table {
+        border: 1px dotted blue;
+        border-collapse: collapse;
+    }
+td {
+    border: 1px dotted blue;
+    padding: 15px; 15px;
+}
+th {
+    font-size: 20px;
+}
